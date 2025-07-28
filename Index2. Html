@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Saba Vic Designs</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/a076d05399.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="icon"><i class="fas fa-star"></i></div>
+      <h1>Saba Vic Designs</h1>
+      <p>Welcome to My Website</p>
+      <p>
+        This is a cool project I built from scratch. Feel free to explore and
+        enjoy!
+      </p>
+
+      <section>
+        <h2>About Me</h2>
+        <p>
+          I’m a passionate creative who loves tech and design. This website is
+          my little space to express myself and show my creativity. I enjoy
+          building simple but powerful projects that people won’t forget in a
+          hurry!
+        </p>
+      </section>
+
+      <section class="contact">
+        <h2>Contact Me</h2>
+        <ul>
+          <li><i class="fas fa-envelope"></i> sabavic@email.com</li>
+          <li><i class="fas fa-phone"></i> +234 9059556592</li>
+          <li><i class="fab fa-instagram"></i> @saba_vic_designs</li>
+        </ul>
+      </section>
+    </div>
+  </body>
+</html>
